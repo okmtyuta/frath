@@ -1,0 +1,1 @@
+# Frath: A mathematical document generator with wab-like way.
